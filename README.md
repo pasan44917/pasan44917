@@ -1,16 +1,13 @@
-### Hi I'm Pasan 👋
+Hi, I'm Pasan 👋
 
-<!--
-**pasan44917/pasan44917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate - IIT
+💻 Interested in Machine Learning, Cybersecurity, and Cloud Technologies
+🚀 Currently working on ML-based projects and research
+🌱 Learning Python, XAI, Ensemble Learning, and Cloud Computing
+🛠️ Tools & Technologies: Python, Scikit-learn, XGBoost, Pandas, Kali Linux
+📫 Reach me: your-email@example.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+Skill Gap Analysis Platform
+ML-based Job Demand Prediction System
+Cybersecurity Labs using Kali Linux & Security Shepherd
